@@ -1,24 +1,11 @@
 # CS330
 ## SNHU CS330 Submission
 
-### How do I approach designing software?
+### How do I approach designing software? What new design skills has your work on the project helped you to craft? What design process did you follow for your project work? How could tactics from your design approach be applied in future work?
+My approach focuses on developing programs into an object-oriented architecture and modular component-based design. In any given project my goal in design evolves from a "functional" mindset—simply making things work—to an architectural mindset focused on scalability and modularity. In this project, I moved away from hard-coding individual objects and instead crafted a data-driven system. Once I get situated and learn the existing code, I start to ask question of like, how can I make it more modular, how can I add more functionality, and it progresses to asking how can I make it more algorithmic, and more automated? This results in a more robust, scalable and data-driven system rather than just lines of code. I work with parts and components, not lines of code. My tactics from my design strategy could be applied to future work by making programs and systems work better and more optimally. 
 
-### What new design skills has your work on the project helped you to craft?
+### How do I approach developing programs? What new development strategies did you use while working on your 3D scene? How did iteration factor into your development? How has your approach to developing code evolved throughout the milestones, which led you to the project’s completion?
+My process of developing a program is iterative. I rarely get an object functioning properly on the first run. In my 3D scene project, I think the biggest frustration came from correctly applying lighting correctly. But I learned to compromise my overall goal to settle with something more doable, then improve upon it later. Sometimes the answer would come to me later when I was developing something different, where I would think, "oh this is the function that I need to modify." Sometimes it's better to move to something you know you can do rather than keep bashing your head against the same problem to no avail.
 
-### What design process did you follow for your project work?
-
-### How could tactics from your design approach be applied in future work?
-
-### How do I approach developing programs?
-
-### What new development strategies did you use while working on your 3D scene?
-
-### How did iteration factor into your development?
-
-### How has your approach to developing code evolved throughout the milestones, which led you to the project’s completion?
-
-### How can computer science help me in reaching my goals?
-
-### How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future educational pathway?
-
-### How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future professional pathway?
+### How can computer science help me in reaching my goals? How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future educational pathway? How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future professional pathway?
+Computer science can help me reach my goals by providing me a better way of life through more gainful employment. Computational graphics and visualizations was a really useful lesson in visualizing data in ways that I had not thought of before. Before, I thought of it as merely code but in reality, math can have visual representations, and visual representations have equational counterparts. The visual representation is a form of applied mathematics. In the end though computer science is more than just a technical skill, it's framework for logical problem-solving that translates to almost any goal, from developing complex systems to visualization of charts in business, to art. By understanding how the systems are built, you gain the ability to supplement a number of different fields.
